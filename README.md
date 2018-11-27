@@ -4,7 +4,9 @@ Program for rental, running, and repair of London's Boris Bikes
 
 ## Getting Started
 
+```
 ruby Borisbikes.rb in terminal
+```
 
 ### Prerequisites
 
